@@ -22,7 +22,9 @@ import javax.swing.JButton;
 
 public class AutoCompletePanel extends JPanel {
 	
-	private static final String SOURCEFOLDER = "/Users/benjaminluong/Google Drive/EclipseCloudWorkspace/AutoComplete/src/";
+	//Change this variable!!
+	private static final String SOURCEFOLDER = "C://";
+	
 	private static final Color BGCOLOR = new Color(129, 192, 249);
 	private JLabel title;
 	private JTextField textField;
